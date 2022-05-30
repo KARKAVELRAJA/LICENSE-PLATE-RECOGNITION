@@ -7,7 +7,7 @@
 ### WORKFLOW OF LICENSE PLATE RECOGNITION USING OPENALPR
 
 - Create an Account in OpenALPR
-- Navigate to CarCheck API and Obtain Our unique Secret Key
+- Navigate to CarCheck API and Obtain your unique Secret Key
 - Loading and Pre-processing the input_image
 - Passing the Pre-processed input_image onto the OpenALPR to recognize the License Plate Number
 - Display the result
