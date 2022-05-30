@@ -4,7 +4,7 @@
 
 -----
 
-### WORKFLOW OF LICENSE-PLATE-RECOGNITION USING OPENALPR
+### WORKFLOW OF LICENSE PLATE RECOGNITION USING OPENALPR
 
 - Create an Account in OpenALPR
 - Navigate to CarCheck API and Obtain Our unique Secret Key
